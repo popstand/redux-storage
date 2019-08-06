@@ -55,7 +55,7 @@
     "lodash.isobject": "^3.0.2",
     "loose-envify": "^1.2.0",
     "redux-actions": "^0.10.1",
-    "redux-storage-merger-simple": "github:popstand/redux-storage-merger-simple#master"
+    "redux-storage-merger-simple": "github:popstand/redux-storage-merger-simple#5bb43e4"
   },
   "peerDependencies": {
     "redux": "^4.0.0 || ^3.0.0 || ^2.0.0 || ^1.0.0 || 1.0.0-alpha || 1.0.0-rc"
